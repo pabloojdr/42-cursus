@@ -7,8 +7,8 @@
     <th width="200">Status</th>
   </tr>
   <tr>
-    <td align="center"><a href="">Libft</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/112-100-blue"></td>
+    <td align="center"><a href="https://github.com/pabloojdr/Libft">Libft</td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/112-100-orange"></td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@
     <th width="200">Status</th>
   </tr>
   <tr>
-    <td align="center"><a href="">ft_printf</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-blue"></td>
+    <td align="center"><a href="https://github.com/pabloojdr/ft_printf">ft_printf</td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-orange"></td>
   </tr>
   <tr>
-    <td align="center"><a href="">Get Next Line</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/112-100-blue"></td>
+    <td align="center"><a href="https://github.com/pabloojdr/get_next_line">get_next_line</td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/112-100-orange"></td>
   </tr>
   <tr>
     <td align="center">Born2beroot</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-blue"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-orange"></td>
   </tr>
 </table>
 
