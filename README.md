@@ -1,9 +1,9 @@
-<h1 align="center">42 proyects:</h1>
+<h1 align="center">42 projects:</h1>
 
 <h3 align="center">Rank 0:</h3>
 <table align="center">
   <tr>
-    <th width="200">Proyect</th>
+    <th width="200">Project</th>
     <th width="200">Status</th>
   </tr>
   <tr>
@@ -15,7 +15,7 @@
 <h3 align="center">Rank 1:</h3>
 <table align="center">
   <tr>
-    <th width="200">Proyect</th>
+    <th width="200">Project</th>
     <th width="200">Status</th>
   </tr>
   <tr>
@@ -35,7 +35,7 @@
 <h3 align="center">Rank 2:</h3>
 <table align="center">
   <tr>
-    <th width="200">Proyect</th>
+    <th width="200">Project</th>
     <th width="200">Status</th>
   </tr>
   <tr>
@@ -59,7 +59,7 @@
 <h3 align="center">Rank 3:</h3>
 <table align="center">
   <tr>
-    <th width="200">Proyect</th>
+    <th width="200">Project</th>
     <th width="200">Status</th>
   </tr>
   <tr>
@@ -79,7 +79,7 @@
 <h3 align="center">Rank 4:</h3>
 <table align="center">
   <tr>
-    <th width="200">Proyect</th>
+    <th width="200">Project</th>
     <th width="200">Status</th>
   </tr>
   <tr>
@@ -119,7 +119,7 @@
 <h3 align="center">Rank 5:</h3>
 <table align="center">
   <tr>
-    <th width="200">Proyect</th>
+    <th width="200">Project</th>
     <th width="200">Status</th>
   </tr>
   <tr>
@@ -159,7 +159,7 @@
 <h3 align="center">Rank 6:</h3>
 <table align="center">
   <tr>
-    <th width="200">Proyect</th>
+    <th width="200">Project</th>
     <th width="200">Status</th>
   </tr>
   <tr>
