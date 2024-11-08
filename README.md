@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/pabloojdr/minitalk">minitalk</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%125-100-yellow"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/125-100-yellow"></td>
   </tr>
   <tr>
     <td align="center"><a href="">so_long</a></td>
