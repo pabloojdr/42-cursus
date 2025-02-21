@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="center">Exam Rank 2</td>
-    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/n%2Fa-100-purple"></td>
+    <td align="center"><img alt="Static Badge" src="https://img.shields.io/badge/100-100-purple"></td>
   </tr>
 </table>
 
